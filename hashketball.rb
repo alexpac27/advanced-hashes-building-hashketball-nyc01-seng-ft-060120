@@ -17,7 +17,7 @@ def game_hash
                 :reggie_evans => {
                     :number => 30,
                     :shoe => 14,
-                    :points => 12, 
+                    :points => 12,
                     :rebounds => 12,
                     :assists => 12,
                     :steals => 12,
@@ -30,7 +30,7 @@ def game_hash
                     :points => 17,
                     :rebounds => 19,
                     :assists => 10,
-                    :steals => 3, 
+                    :steals => 3,
                     :blocks => 1,
                     :slam_dunks => 15
                 },
@@ -40,14 +40,14 @@ def game_hash
                     :points => 26,
                     :rebounds => 12,
                     :assists => 6,
-                    :steals => 3, 
+                    :steals => 3,
                     :blocks => 8,
                     :slam_dunks => 5
                 },
                 :jason_terry => {
                     :number => 31,
-                    :shoe => 15, 
-                    :points => 19, 
+                    :shoe => 15,
+                    :points => 19,
                     :rebounds => 2,
                     :assists => 2,
                     :steals => 4,
@@ -73,7 +73,7 @@ def game_hash
                 :bismak_biyombo => {
                     :number => 0,
                     :shoe => 16,
-                    :points => 12, 
+                    :points => 12,
                     :rebounds => 4,
                     :assists => 7,
                     :steals => 7,
@@ -86,7 +86,7 @@ def game_hash
                     :points => 24,
                     :rebounds => 12,
                     :assists => 12,
-                    :steals => 4, 
+                    :steals => 4,
                     :blocks => 5,
                     :slam_dunks => 5
                 },
@@ -96,14 +96,14 @@ def game_hash
                     :points => 33,
                     :rebounds => 3,
                     :assists => 2,
-                    :steals => 1, 
+                    :steals => 1,
                     :blocks => 1,
                     :slam_dunks => 0
                 },
                 :brendan_haywood => {
                     :number => 33,
-                    :shoe => 15, 
-                    :points => 6, 
+                    :shoe => 15,
+                    :points => 6,
                     :rebounds => 12,
                     :assists => 12,
                     :steals =>22,
@@ -111,6 +111,6 @@ def game_hash
                     :slam_dunks => 12
                 }
         }
-        
+
     }
     }
